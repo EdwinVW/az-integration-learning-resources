@@ -16,7 +16,9 @@ List of resources to use for gaining knowledge on Azure integration services.
 - [Training for exam AZ-900: Microsoft Azure Fundamentals](https://training.infosupport.com/trainingen/msaz900/microsoft-azure-fundamentals/)
 - [Training for exam AZ-204: Developing Solutions for Microsoft Azure](https://training.infosupport.com/trainingen/msaz204/developing-solutions-for-microsoft-azure/)
 - [Training for exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions](https://training.infosupport.com/trainingen/msaz700/designing-and-implementing-microsoft-azure-networking-solutions/)
-- [Azure Logic APps training](https://training.infosupport.com/trainingen/LOGICAPP/azure-logic-apps/)
+- [Azure Logic Apps training](https://training.infosupport.com/trainingen/LOGICAPP/azure-logic-apps/)
+- [MCPS100 - MCPS Fundamentals](https://training.infosupport.com/trainingen/MCPS100/mcps-fundamentals-mcps-100/)
+- [MCPS210 - Using the MCPS Azure Serverless Integration Platform](https://training.infosupport.com/trainingen/MCPS210/using-the-mcps-azure-serverless-integration-platform-mcps210/)
 
 ## Microsoft Learning courses (individual learning)
 
