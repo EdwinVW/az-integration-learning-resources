@@ -31,6 +31,10 @@ List of resources to use for gaining knowledge on Azure integration services.
 - Azure Functions
   - https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/ 
   - https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/ 
+- Azure Service Bus
+  - https://learn.microsoft.com/en-us/training/paths/az-204-develop-message-based-solutions/
+  - https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/
+  - https://learn.microsoft.com/en-us/training/modules/implement-message-workflows-with-service-bus/
 - Azure Storage
   - https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/ 
   - https://docs.microsoft.com/en-us/learn/modules/explore-azure-blob-storage/
