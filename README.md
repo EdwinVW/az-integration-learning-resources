@@ -8,13 +8,20 @@ List of resources to use for gaining knowledge on Azure integration services.
   - Exam [AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
 - [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
   - Exam [AZ-204: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
+- [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/)
+  - Exam [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/)
 - [Microsoft Certified: Azure Network Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/)
   - Exam [AZ-700: Designing and Implementing Microsoft Azure Networking Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-700)
+
+### Practice Assesments
+  
+- [Practice Assessments for Microsoft Certifications](https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications)
 
 ## Info Support courses (instructor led training)
 
 - [Training for exam AZ-900: Microsoft Azure Fundamentals](https://training.infosupport.com/trainingen/msaz900/microsoft-azure-fundamentals/)
 - [Training for exam AZ-204: Developing Solutions for Microsoft Azure](https://training.infosupport.com/trainingen/msaz204/developing-solutions-for-microsoft-azure/)
+- [Training for exam AZ-400: Azure DevOps Engineer](https://training.infosupport.com/trainingen/MSAZ400/azure-devops-engineer-az-400)
 - [Training for exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions](https://training.infosupport.com/trainingen/msaz700/designing-and-implementing-microsoft-azure-networking-solutions/)
 - [Azure Logic Apps training](https://training.infosupport.com/trainingen/LOGICAPP/azure-logic-apps/)
 - [MCPS100 - MCPS Fundamentals](https://training.infosupport.com/trainingen/MCPS100/mcps-fundamentals-mcps-100/)
