@@ -2,6 +2,8 @@
 
 List of resources to use for gaining knowledge on Azure integration services.
 
+**If you find any broken links, please file an issue or create a PR. Thanks!**
+
 ## Certification
 
 - [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
@@ -66,4 +68,3 @@ List of resources to use for gaining knowledge on Azure integration services.
 - Security
   - https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/ 
 
-If you find any broken links, please file an issue or create a PR. Thanks!
