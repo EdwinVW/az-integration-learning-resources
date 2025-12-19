@@ -68,3 +68,6 @@ List of resources to use for gaining knowledge on Azure integration services.
 - Security
   - https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/ 
 
+## Other resources
+
+- [Azure Integration Services Resources | Ronald Bosma](https://gist.github.com/ronaldbosma/3ce9ec0f8090922ef143efb8bc6e0d53)
